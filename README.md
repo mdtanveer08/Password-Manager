@@ -129,4 +129,4 @@ The app must have the following functionalities
 
 
 check the ouput :
-[https://mdtanveer08.ccbp.tech/](https://pwmtanveer.ccbp.tech/)
+https://pwmtanveer.ccbp.tech/
